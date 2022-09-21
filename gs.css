@@ -6,12 +6,12 @@ p.speech {
 }
 p.song{
     font-size: 12px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Arial, Helvetica, sans-serif;
     color: black;
 }
 p.direction{
     font-size: 13px;
-    font-family: 'Times New Roman', Times, serif;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: black;
     background-color: bisque;
 }
@@ -19,9 +19,45 @@ direction:hover {
         background-color: yellow; 
         color:green;
     }
-p.name
+h6.name
 {
-    font-size: 13px;
-    font-family: 'Times New Roman', Times, serif;
-    color: black;
+    font-size: 14px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:blue;
+}
+
+.mai {
+    font-size: 15px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blueviolet;
+}
+.jan {
+    font-size: 16px;
+    font-family:'Times New Roman', Times, serif;
+    color:brown;
+}
+.gro {
+    font-size: 17px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:burlywood;
+}
+.ang {
+    font-size: 18px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: silver;
+}
+.ell{
+    font-size: 19px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: skyblue;
+}
+.sap{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orangered;
+}
+.chorus{
+    font-size: 21px;
+    font-family:Arial, Helvetica, sans-serif;
+    color:navy;
 }
