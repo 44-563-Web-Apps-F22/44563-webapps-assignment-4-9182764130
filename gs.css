@@ -81,3 +81,9 @@ ul{
 li{
     float:left;
 }
+h6.name:hover, h6.name:active{
+    text-shadow: 2px 2px 2px red;
+    border: 10px;
+    border-color: blue;
+    border-style: dotted;
+}
